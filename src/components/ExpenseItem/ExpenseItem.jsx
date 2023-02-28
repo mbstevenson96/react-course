@@ -3,7 +3,7 @@
 const ExpenseItem = () => {
   return ( 
     <>
-      <h2>ExpenseItems Component</h2>
+      <h2>ExpenseItem Component</h2>
     </>
   );
 }
