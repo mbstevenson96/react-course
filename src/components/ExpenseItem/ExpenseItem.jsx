@@ -1,6 +1,6 @@
 
 
-const ExpenseItems = () => {
+const ExpenseItem = () => {
   return ( 
     <>
       <h2>ExpenseItems Component</h2>
@@ -8,4 +8,4 @@ const ExpenseItems = () => {
   );
 }
 
-export default ExpenseItems;
+export default ExpenseItem;
