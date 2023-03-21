@@ -1,4 +1,4 @@
-
+import styles from './ExpenseItem.module.css'
 
 const ExpenseItem = () => {
   return ( 
