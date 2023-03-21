@@ -4,9 +4,9 @@ const ExpenseItem = () => {
   return ( 
     <div className={styles.expenseItem}>
       <div>March 28, 2021</div>
-      <div>
+      <div className={styles.expenseItemDescription}>
         <h2>Car Insurance</h2>
-        <div>$294.67</div>
+        <div className={styles.expenseItemPrice}>$294.67</div>
       </div>
     </div>
   );
